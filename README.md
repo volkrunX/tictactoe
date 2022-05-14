@@ -10,3 +10,4 @@ If your using something else thats not visual studio basic, you might need to ru
 pip install colorama
 ```
 
+If thats all done just run main.py
